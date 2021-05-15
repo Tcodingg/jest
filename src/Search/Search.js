@@ -5,7 +5,7 @@ export default function Search() {
 	return (
 		<input
 			type='text'
-			title='dummySearch'
+			title='dummysearch'
 			onChange={(e) => setInputValue(e.target.value)}
 		/>
 	);
